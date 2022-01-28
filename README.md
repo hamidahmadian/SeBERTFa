@@ -16,4 +16,4 @@ Beacause of using **Se**ntence-transformers, **BERT** based pre-trained model in
 
 | Dataset | SeBERTFa | ParsBERT | DeepSentiPers |
 | ----------- | ----------- | ----------- | ----------- |
-| SentiPers (Multi Class) | 72.48 | 71.31 | 69.33 |
+| SentiPers (Multi Class) | 73.54 | 71.31 | 69.33 |
