@@ -6,6 +6,8 @@ for measuring the performance of the model I use `f1` score on SentiPers(Multi C
 
 I implement it with the using all benefits of **sentence-transformers**, **transformers** and **datasets** libraries and let these powerful libraries handle details like **training loop**, **distributed training**, **text bachify** and I just **connect** them with each other that help me without losing any customization for the problem.
 
+Beacause of using **Se**ntence-transformers, **BERT** based pre-trained model in **Fa**rsi we call it SeBERTFa.
+
 # Results
 
 `f1` score on SentiPers(Multi Class) [dataset](https://github.com/JoyeBright/DeepSentiPers/tree/master/Dataset)
