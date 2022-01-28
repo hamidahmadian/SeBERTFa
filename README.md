@@ -7,3 +7,7 @@ for measuring the performance of the model I use `f1` score on SentiPers(Multi C
 I implement it with the using all benefits of **sentence-transformers**, **transformers** and **datasets** libraries and let these powerful libraries handle details like **training loop**, **distributed training**, **text bachify** and I just **connect** them with each other that help me without losing any customization for the problem.
 
 # Results
+	| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
