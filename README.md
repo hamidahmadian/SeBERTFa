@@ -10,6 +10,8 @@ I implement it with the using all benefits of **sentence-transformers**, **trans
 
 `f1` score on SentiPers(Multi Class) [dataset](https://github.com/JoyeBright/DeepSentiPers/tree/master/Dataset)
 
+
+
 | Dataset | SeBERTFa | ParsBERT | DeepSentiPers |
-| ----------- | ----------- |
+| ----------- | ----------- | ----------- | ----------- |
 | SentiPers (Multi Class) | 72.48 | 71.31 | 69.33 |
